@@ -1,1 +1,18 @@
-
+[
+    {
+        "term": "tes1",
+        "definition": "33333",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    },
+    {
+        "term": "test2",
+        "definition": "3423234",
+        "context": "",
+        "term_plural": "",
+        "reference": "",
+        "comment": ""
+    }
+]
